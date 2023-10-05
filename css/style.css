@@ -1,0 +1,19 @@
+* {
+    font-size: 16px;
+    font-family: "Times New Roman";
+    background-color: rgb(184, 241, 241);
+}
+ul a {
+    font-size: 30px;
+}
+
+h1{
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    font-family: Monospace;
+}
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
